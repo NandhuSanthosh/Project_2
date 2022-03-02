@@ -1,0 +1,14 @@
+$(document).ready(function(){
+    $("#submitForm").validate({
+        rules:{
+            fname:{
+                required:true,
+                minlength:6
+            },
+            sname:{
+                required:true,
+                minlength:6
+            }
+        }
+    })
+})

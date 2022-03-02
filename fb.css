@@ -1,0 +1,141 @@
+.header{
+   background:#3b5998;
+   width:100%;
+   height:83px;
+}
+body{
+    margin:0%;
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 25px;
+    float:left;
+
+}
+
+.login{
+    width:50%;
+    float:left;
+
+} 
+.logo-text{
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    margin-left: 172px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.login-label{
+    color: white;
+    font-size: 11px;
+}
+.login-control{
+    margin-left: 173px;
+    margin-top: 11px;
+}
+.login-button{
+    background-color: #3b5998;
+    border-width: 1px;
+    color: white;
+    height: 23px;
+    cursor: pointer;
+}
+.data-fld{
+             height: 20px;
+}
+.login-button:hover{
+    background:#3460be;
+}
+
+.quote{
+    color: #14357a;
+    font-size: 20px;
+    font-weight: 900;
+    margin-left: 188px;
+    margin-top: 63px;
+    
+}
+.body-left{
+    width:50%;
+    float:left;
+}
+.body-right{
+    width:50%;
+    float:left;
+}
+.body-main{
+    width:100%;
+    height:500px;
+    background-color:#e9ebee;
+}
+.create{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 145px;
+}
+.snd-line{
+    
+    font-weight: 400;
+    font-size: 22px;
+    margin-left: 146px;
+    margin-top: -26px;
+}
+.new-ac{
+    margin-left: 141px;
+    margin-top: 0px;
+    height:10px;
+}
+.data-fld2{
+    height: 32px;
+    border-radius: 6px;
+}
+.box2-width{
+    width: 423px;
+    margin-top: 10px;
+
+}
+.surname{
+    margin-left: 4px;
+}
+.firstname{
+    
+}
+.align{
+    margin-left: 141px;
+}
+.box-width{
+    width: 203px;
+}
+input[type="text"]::placeholder {  
+                  
+    font-size:17px;
+    padding-left: 10px; 
+} 
+input[type="password"]::placeholder {  
+    font-size:17px;
+    padding-left: 10px; 
+} 
+input[type="email"]::placeholder {  
+    font-size:17px;
+    padding-left: 10px; 
+} 
+.birthday{
+    margin-top: 30px;
+    font-size: 19px;
+    color: #808080d4;
+}
+.year{
+    width:50px;
+    
+}
+.gdr{
+    margin-top: 30px;
+    font-size: 19px;
+    color: #808080d4;
+}
+.gdr-opt{
+    font-size:20px;
+    font-weight:bold;
+    margin-top:10px;
+}
